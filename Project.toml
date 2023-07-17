@@ -1,0 +1,10 @@
+[deps]
+CodecXz = "ba30903b-d9e8-5048-a5ec-d1f5b0d4b47b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DuckDB = "d2f5444f-75bc-4fdf-ac35-56f514c445e1"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+Parquet2 = "98572fba-bba0-415d-956f-fa77e587d26d"
+RData = "df47a6cb-8c03-5eed-afd8-b6050d6c41da"
+ReadStatTables = "52522f7a-9570-4e34-8ac6-c005c74d4b84"
+SQLite = "0aa819cd-b072-5ff4-a722-6bc24af294d9"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"

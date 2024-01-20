@@ -1,5 +1,7 @@
 # Working with DataFrames.jl beyond CSV files
 
+[![JuliaCon2023 Talk](https://img.youtube.com/vi/oorErKcAWIQ/0.jpg)](https://www.youtube.com/watch?v=oorErKcAWIQ)
+
 This is an introductory part of the workshop
 prepared for [JuliaCon2023](https://juliacon.org/2023/).
 
